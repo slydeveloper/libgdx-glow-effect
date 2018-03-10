@@ -1,0 +1,4 @@
+#Sat Mar 10 00:43:35 CET 2018
+base.0=/Users/sly/\#GitHub Projects/libgdx-glow-effect/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/sly/\#GitHub Projects/libgdx-glow-effect/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

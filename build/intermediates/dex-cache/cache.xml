@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sly/LibGDXprojects/GlowEffect/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4fdd7946081b883ccded7107db5053708a9e8399">
+        <dex dex="/Users/sly/LibGDXprojects/GlowEffect/android/build/intermediates/pre-dexed/debug/core-1.0_d91edef1dd76fa2ecb3f787b79fd829e52419f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sly/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/sly/LibGDXprojects/GlowEffect/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_eaab8538f3da14e29c3b4a67cfcc9a8e74190c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sly/#GitHub Projects/libgdx-glow-effect/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="db2146b97b2b8e4e562c777f47bd553cf9928c9e">
+        <dex dex="/Users/sly/#GitHub Projects/libgdx-glow-effect/android/build/intermediates/pre-dexed/debug/core-1.0_823bc001a92f84b2c7af7c4dc53c4f30abc230bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sly/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/sly/LibGDXprojects/GlowEffect/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.6_eafbca5822dffae1fb63b719fe80849fe3552987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sly/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/sly/LibGDXprojects/GlowEffect/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_5d15f0b9683113a6aeb189524b83546598a4906a.jar" />
+    </item>
+
+</items>
