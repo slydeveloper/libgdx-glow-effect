@@ -1,7 +1,8 @@
 *.class
 
 # Package Files #
-*.jar
+*.jar               #Exclude all jars
+!gradle-wrapper.jar #Except for gradle-wrapper.jar
 *.war
 *.ear
 *.iml
